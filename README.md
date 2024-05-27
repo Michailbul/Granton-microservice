@@ -66,5 +66,5 @@ To run the tests using `pytest`, follow these steps:
 2. **Run the tests**:
 
     ```sh
-    pytest app/test_main.py
+    pytest src/test_main.py
     ```
