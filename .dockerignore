@@ -1,0 +1,22 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore pytest cache files
+.pytest_cache/
+
+# Ignore Dockerfile if it's named differently
+dockerfile
+
+# Ignore environment files
+.env
+
+# Ignore any log files
+*.log
+
+# Ignore test files
+test_main.py
+
+# Ignore other unnecessary files
+.DS_Store
